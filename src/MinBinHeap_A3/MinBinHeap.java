@@ -15,6 +15,7 @@ public class MinBinHeap implements Heap_Interface {
                                              //the book/animation page both do this.
   }
     
+  
   //Please do not remove or modify this method! Used to test your entire Heap.
   @Override
   public EntryPair[] getHeap() { 
